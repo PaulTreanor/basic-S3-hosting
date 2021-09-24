@@ -6,6 +6,8 @@ Made for future reference. No domains, literally just a bucket with distribution
 1. Put website files in /static
 2. Edit details in serverless.yml
 3. Remember that the bucket name (custom siteName) must be unique
+4. Install the serverless framework and run `npm install`
+5. run `serverless deploy`
 
 
 # Link to deployed website 
