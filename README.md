@@ -11,3 +11,11 @@ Made for future reference. No domains, literally just a bucket with distribution
 # Link to deployed website 
 http://serverless-static-site-paul.s3-website-eu-west-1.amazonaws.com/
 
+# Deployed website link format 
+
+http://<bucket-name>.s3-website-<Region>.amazonaws.com
+  
+  or 
+  
+http://<bucket-name>.s3-website.<Region>.amazonaws.com
+
